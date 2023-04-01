@@ -1,0 +1,5 @@
+if getgenv().credit == "HERE_CREDIT_NAME" then
+    print"script loaded"
+else
+    game.Players.LocalPlayer:Kick("IQ DISABLED!")
+end
